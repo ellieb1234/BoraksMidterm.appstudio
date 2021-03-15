@@ -1,5 +1,5 @@
 let myAnimals = ['dog', 'cat', 'horse', 'meerkat']
-let newAnimal = prompt("Type an animal or 'STOP' to end the program")
+let newAnimal = prompt("Type an animal")
 
 myAnimals.push(newAnimal.toLowerCase())
 
