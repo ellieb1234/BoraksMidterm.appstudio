@@ -1,3 +1,4 @@
+/*
 let a=parseInt(prompt("Enter three numbers"))
 let b=parseInt(prompt("Enter another number"))
 let c=parseInt(prompt("Enter another number"))
@@ -11,3 +12,4 @@ function calcAvgSquare(x,y,z){
   let avgXSquare=xAvg*xSquare
   return (avgXSquare)
 }
+*/
