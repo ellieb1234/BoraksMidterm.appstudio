@@ -1,9 +1,8 @@
 myAnimals = ['dog', 'cat', 'horse', 'meerkat']
-newAnimal = prompt("Type an animal or 'STOP' to end the program")
 
-while (newAnimal!='STOP'){
-  myAnimals.push(newAnimal.toLowerCase())
+for(i=0; i<2; i++){
   newAnimal = prompt("Type an animal or 'STOP' to end the program")
+  myAnimals.push(newAnimal.toLowerCase())
 }
 
 lastAnimal=myAnimals[myAnimals.length-1]
