@@ -33,6 +33,14 @@
             "animalsEC",
             "animalsEC.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "bucketList",
+            "bucketList.json"
+          ]
         }
       ],
       "configxml": null,
@@ -54,7 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "animalsEC",
+      "firstform": "bucketList",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
